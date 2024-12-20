@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="module" value="true"/>
+			<attribute name="add-exports" value="java.base/sun.security.x509=ALL-UNNAMED:java.base/javax.net=ALL-UNNAMED:java.base/javax.net.ssl=ALL-UNNAMED:java.naming/javax.naming=ALL-UNNAMED:jdk.security.auth/com.sun.security.auth=ALL-UNNAMED:java.xml/javax.xml.xpath=ALL-UNNAMED:java.xml/org.w3c.dom=ALL-UNNAMED"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar" sourcepath="M2_REPO/org/projectlombok/lombok/1.18.34/lombok-1.18.34-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.12.7/joda-time-2.12.7.jar" sourcepath="M2_REPO/joda-time/joda-time/2.12.7/joda-time-2.12.7-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.15.0/commons-lang3-3.15.0.jar" sourcepath="M2_REPO/org/apache/commons/commons-lang3/3.15.0/commons-lang3-3.15.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.17.2/jackson-databind-2.17.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.17.2/jackson-annotations-2.17.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.17.2/jackson-core-2.17.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/fish/payara/extras/payara-embedded-all/6.2024.7/payara-embedded-all-6.2024.7.jar" sourcepath="M2_REPO/fish/payara/extras/payara-embedded-all/6.2024.7/payara-embedded-all-6.2024.7-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/arangodb/arangodb-java-driver/7.0.0/arangodb-java-driver-7.0.0.jar" sourcepath="M2_REPO/com/arangodb/arangodb-java-driver/7.0.0/arangodb-java-driver-7.0.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/arangodb/core/7.0.0/core-7.0.0.jar" sourcepath="M2_REPO/com/arangodb/core/7.0.0/core-7.0.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/arangodb/http-protocol/7.0.0/http-protocol-7.0.0.jar" sourcepath="M2_REPO/com/arangodb/http-protocol/7.0.0/http-protocol-7.0.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/vertx/vertx-web-client/4.4.1/vertx-web-client-4.4.1.jar" sourcepath="M2_REPO/io/vertx/vertx-web-client/4.4.1/vertx-web-client-4.4.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/vertx/vertx-uri-template/4.4.1/vertx-uri-template-4.4.1.jar" sourcepath="M2_REPO/io/vertx/vertx-uri-template/4.4.1/vertx-uri-template-4.4.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/vertx/vertx-core/4.4.1/vertx-core-4.4.1.jar" sourcepath="M2_REPO/io/vertx/vertx-core/4.4.1/vertx-core-4.4.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-common/4.1.90.Final/netty-common-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-common/4.1.90.Final/netty-common-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-buffer/4.1.90.Final/netty-buffer-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-buffer/4.1.90.Final/netty-buffer-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-transport/4.1.90.Final/netty-transport-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-transport/4.1.90.Final/netty-transport-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-resolver/4.1.90.Final/netty-resolver-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-resolver/4.1.90.Final/netty-resolver-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-handler/4.1.90.Final/netty-handler-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-handler/4.1.90.Final/netty-handler-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-transport-native-unix-common/4.1.90.Final/netty-transport-native-unix-common-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-transport-native-unix-common/4.1.90.Final/netty-transport-native-unix-common-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-codec/4.1.90.Final/netty-codec-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-codec/4.1.90.Final/netty-codec-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-handler-proxy/4.1.90.Final/netty-handler-proxy-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-handler-proxy/4.1.90.Final/netty-handler-proxy-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-codec-socks/4.1.90.Final/netty-codec-socks-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-codec-socks/4.1.90.Final/netty-codec-socks-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-codec-http/4.1.90.Final/netty-codec-http-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-codec-http/4.1.90.Final/netty-codec-http-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-codec-http2/4.1.90.Final/netty-codec-http2-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-codec-http2/4.1.90.Final/netty-codec-http2-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-resolver-dns/4.1.90.Final/netty-resolver-dns-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-resolver-dns/4.1.90.Final/netty-resolver-dns-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty-codec-dns/4.1.90.Final/netty-codec-dns-4.1.90.Final.jar" sourcepath="M2_REPO/io/netty/netty-codec-dns/4.1.90.Final/netty-codec-dns-4.1.90.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/vertx/vertx-web-common/4.4.1/vertx-web-common-4.4.1.jar" sourcepath="M2_REPO/io/vertx/vertx-web-common/4.4.1/vertx-web-common-4.4.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/vertx/vertx-auth-common/4.4.1/vertx-auth-common-4.4.1.jar" sourcepath="M2_REPO/io/vertx/vertx-auth-common/4.4.1/vertx-auth-common-4.4.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/arangodb/jackson-serde-json/7.0.0/jackson-serde-json-7.0.0.jar" sourcepath="M2_REPO/com/arangodb/jackson-serde-json/7.0.0/jackson-serde-json-7.0.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

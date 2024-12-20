@@ -1,0 +1,2201 @@
+[ {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SWQ-107",
+  "factoryDate" : "121496153-08-10T21:52:57.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "GKK-112",
+  "factoryDate" : "264266707-04-08T20:03:53.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SSD-076",
+  "factoryDate" : "77477346-03-29T07:14:56.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SEL-144",
+  "factoryDate" : "50804442-02-26T21:51:03.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VDR-580",
+  "factoryDate" : "79910905-12-27T21:35:12.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "AJB-337",
+  "factoryDate" : "282549123-07-27T05:03:09.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SXB-321",
+  "factoryDate" : "153503086-07-06T15:56:39.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RII-303",
+  "factoryDate" : "172868272-11-25T22:12:41.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "CKZ-892",
+  "factoryDate" : "209921994-05-08T00:02:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YKU-097",
+  "factoryDate" : "265789200-09-26T13:18:30.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XOG-978",
+  "factoryDate" : "264624640-10-05T10:48:09.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "OWZ-946",
+  "factoryDate" : "291088387-08-26T23:46:15.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FMS-565",
+  "factoryDate" : "232205162-08-05T17:35:42.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "ALY-358",
+  "factoryDate" : "100300022-10-19T20:50:27.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MOE-135",
+  "factoryDate" : "260833632-10-15T18:04:57.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "CPR-395",
+  "factoryDate" : "282786315-05-05T23:07:40.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "BOU-361",
+  "factoryDate" : "179681266-04-18T04:40:29.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "NPB-854",
+  "factoryDate" : "62236196-01-04T13:44:29.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PVB-333",
+  "factoryDate" : "96196809-12-24T22:07:02.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "AMC-689",
+  "factoryDate" : "214105475-03-25T17:09:32.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "NLZ-261",
+  "factoryDate" : "14259004-01-25T00:50:30.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "BYX-560",
+  "factoryDate" : "196811673-02-14T06:54:12.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YQL-776",
+  "factoryDate" : "10639977-06-01T18:40:26.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "KQW-237",
+  "factoryDate" : "162268559-12-05T16:54:20.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VJT-360",
+  "factoryDate" : "274765359-12-25T02:11:00.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "ETB-434",
+  "factoryDate" : "43110614-03-02T13:30:16.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "NLC-713",
+  "factoryDate" : "29020607-11-24T02:47:41.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YOR-891",
+  "factoryDate" : "184303398-12-09T18:10:59.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "VZB-986",
+  "factoryDate" : "270990348-12-19T20:36:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "LZP-165",
+  "factoryDate" : "38666722-12-24T20:56:55.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "ZEN-021",
+  "factoryDate" : "16927796-12-27T12:08:50.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "BED-353",
+  "factoryDate" : "220091780-02-06T18:47:09.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "INW-320",
+  "factoryDate" : "83998625-07-29T01:42:52.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "DXH-286",
+  "factoryDate" : "78249343-09-18T17:07:14.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "UNJ-934",
+  "factoryDate" : "135155267-02-07T19:21:13.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "DOI-436",
+  "factoryDate" : "181520610-01-30T02:06:12.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RTC-303",
+  "factoryDate" : "96941446-02-14T22:06:59.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FNJ-544",
+  "factoryDate" : "200242512-03-29T06:03:47.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XPO-427",
+  "factoryDate" : "198471781-03-25T13:23:02.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "JQL-847",
+  "factoryDate" : "57560203-12-04T12:33:40.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "LAZ-350",
+  "factoryDate" : "77878706-08-19T16:57:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "MKD-872",
+  "factoryDate" : "53522421-05-03T14:15:17.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "BCD-483",
+  "factoryDate" : "95986575-03-07T02:29:28.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SYR-752",
+  "factoryDate" : "211075590-01-17T04:06:59.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "GZD-556",
+  "factoryDate" : "123450777-06-19T14:25:10.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "YMV-316",
+  "factoryDate" : "187508895-01-05T20:49:01.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "GWJ-499",
+  "factoryDate" : "128937720-02-08T14:56:31.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FRW-320",
+  "factoryDate" : "223967198-12-14T10:00:39.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MXZ-705",
+  "factoryDate" : "15330128-02-14T13:18:53.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "MGT-397",
+  "factoryDate" : "88074846-05-26T02:02:47.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VHN-974",
+  "factoryDate" : "253894273-03-29T14:31:09.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RLJ-191",
+  "factoryDate" : "228124051-01-31T01:28:35.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XUB-533",
+  "factoryDate" : "150297382-11-29T22:07:04.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "BXG-071",
+  "factoryDate" : "102715910-06-16T11:42:07.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "CBA-862",
+  "factoryDate" : "282059425-03-18T04:25:36.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YCK-017",
+  "factoryDate" : "131915752-08-02T11:18:51.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "NVO-871",
+  "factoryDate" : "189522762-09-04T02:40:32.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "DGK-248",
+  "factoryDate" : "70851935-01-24T19:07:29.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XMQ-386",
+  "factoryDate" : "25818679-04-20T20:16:02.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "CBG-660",
+  "factoryDate" : "231014694-03-22T13:43:33.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "LAG-907",
+  "factoryDate" : "36515860-09-16T04:58:57.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "CIH-592",
+  "factoryDate" : "193906852-06-09T07:34:24.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XRT-101",
+  "factoryDate" : "251749795-11-19T04:29:19.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "ZTW-761",
+  "factoryDate" : "253839552-11-15T12:09:56.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "JMB-247",
+  "factoryDate" : "241016966-09-03T04:30:00.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "NIE-787",
+  "factoryDate" : "249374872-08-12T11:07:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "ZDL-764",
+  "factoryDate" : "246309966-04-04T22:28:37.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FFB-795",
+  "factoryDate" : "43709961-07-15T15:27:26.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "TVN-759",
+  "factoryDate" : "155696503-12-13T01:28:30.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "FSA-002",
+  "factoryDate" : "96948701-01-29T13:02:14.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FAI-898",
+  "factoryDate" : "134096992-12-14T09:24:40.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SUV-042",
+  "factoryDate" : "186716025-08-14T23:35:16.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PZB-586",
+  "factoryDate" : "101637578-11-14T21:46:20.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YDH-455",
+  "factoryDate" : "157955876-12-24T03:31:32.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "HIJ-341",
+  "factoryDate" : "255861273-03-24T07:25:09.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XNC-284",
+  "factoryDate" : "95103937-02-18T12:24:07.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PZW-780",
+  "factoryDate" : "22782003-07-18T00:30:20.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "WOZ-096",
+  "factoryDate" : "172642071-05-08T02:01:57.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MPV-614",
+  "factoryDate" : "284031002-09-21T04:23:20.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "NYN-519",
+  "factoryDate" : "101288770-01-28T13:29:29.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "UWP-568",
+  "factoryDate" : "2422595-06-04T00:02:40.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "EHT-229",
+  "factoryDate" : "204898038-03-07T19:24:39.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "EDI-577",
+  "factoryDate" : "174917231-02-01T14:34:01.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RZV-775",
+  "factoryDate" : "212011153-07-14T19:15:05.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "NOL-676",
+  "factoryDate" : "288498881-09-06T09:37:17.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "OFR-760",
+  "factoryDate" : "288737882-11-29T17:48:14.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "GPW-887",
+  "factoryDate" : "288509610-11-23T20:58:03.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "HHA-247",
+  "factoryDate" : "9348501-08-25T19:08:36.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VJE-974",
+  "factoryDate" : "259032329-10-30T09:55:21.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "PBS-708",
+  "factoryDate" : "119576602-01-27T10:59:58.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "BSP-268",
+  "factoryDate" : "117322994-03-11T14:16:02.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "QNC-677",
+  "factoryDate" : "65026585-11-15T06:53:19.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SJH-117",
+  "factoryDate" : "182549991-02-28T10:04:44.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VWE-687",
+  "factoryDate" : "48613102-09-15T23:29:22.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "TEE-456",
+  "factoryDate" : "14651777-03-04T18:07:55.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VUP-933",
+  "factoryDate" : "273823113-11-16T00:14:47.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YHV-416",
+  "factoryDate" : "197711144-05-20T23:26:13.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "CXX-534",
+  "factoryDate" : "252232337-05-31T18:57:42.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "JCK-062",
+  "factoryDate" : "32811997-05-03T19:37:34.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "WAM-750",
+  "factoryDate" : "93720187-02-02T23:43:06.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "KGO-543",
+  "factoryDate" : "254682682-02-16T14:55:42.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "KKY-528",
+  "factoryDate" : "32341918-01-05T00:11:29.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VZO-406",
+  "factoryDate" : "247450380-07-30T22:13:56.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "HIV-901",
+  "factoryDate" : "81260142-10-24T16:41:11.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "HXR-809",
+  "factoryDate" : "278811142-05-08T02:49:53.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XFY-304",
+  "factoryDate" : "209171421-04-16T23:08:42.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "LYY-170",
+  "factoryDate" : "210917136-11-25T18:40:50.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FWG-752",
+  "factoryDate" : "118197262-03-08T16:04:20.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "ANH-081",
+  "factoryDate" : "29685078-05-05T01:13:45.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MZZ-804",
+  "factoryDate" : "273729685-06-11T17:39:31.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "BKJ-372",
+  "factoryDate" : "209562517-08-11T06:39:14.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "TYE-926",
+  "factoryDate" : "30411295-10-15T21:47:39.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "GMG-757",
+  "factoryDate" : "288143531-07-18T14:24:57.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PYX-795",
+  "factoryDate" : "82581953-08-19T03:20:22.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VRG-445",
+  "factoryDate" : "228095335-12-05T06:52:55.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "DZJ-604",
+  "factoryDate" : "161629766-07-26T09:09:37.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "OMO-679",
+  "factoryDate" : "193044013-10-23T12:15:09.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "EPX-940",
+  "factoryDate" : "160604598-04-12T04:45:04.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SGJ-313",
+  "factoryDate" : "202426024-02-13T06:45:29.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "TBL-021",
+  "factoryDate" : "76246513-01-27T00:28:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "XDY-043",
+  "factoryDate" : "70187540-07-09T11:34:47.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PNM-078",
+  "factoryDate" : "122711022-01-16T04:58:17.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FTT-049",
+  "factoryDate" : "186796518-08-23T12:57:12.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "ZVD-840",
+  "factoryDate" : "11780496-07-04T09:03:30.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "JIL-222",
+  "factoryDate" : "190705574-07-04T19:43:16.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "BET-185",
+  "factoryDate" : "106018969-10-30T03:54:07.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "CYX-364",
+  "factoryDate" : "188870016-09-23T09:52:09.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "RAK-859",
+  "factoryDate" : "66504596-12-21T06:23:05.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "HCY-630",
+  "factoryDate" : "55594107-03-24T22:37:50.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "YRJ-593",
+  "factoryDate" : "173276455-09-11T19:56:47.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "DLE-925",
+  "factoryDate" : "28942654-07-15T16:33:13.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MSX-395",
+  "factoryDate" : "82366690-12-21T02:47:22.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "UUE-645",
+  "factoryDate" : "212027202-05-05T15:45:08.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "BWM-311",
+  "factoryDate" : "118702372-12-10T23:12:41.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "QBP-882",
+  "factoryDate" : "188190894-08-27T15:10:32.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "QVN-976",
+  "factoryDate" : "238009312-12-03T08:45:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PDZ-840",
+  "factoryDate" : "203832586-10-03T13:14:18.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "TJN-026",
+  "factoryDate" : "99144971-10-14T12:27:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "AMP-761",
+  "factoryDate" : "13388654-07-19T23:46:00.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "QPL-018",
+  "factoryDate" : "163190615-01-09T23:38:36.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SGE-734",
+  "factoryDate" : "233011697-06-05T06:16:37.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "GWB-722",
+  "factoryDate" : "209291703-11-11T16:12:44.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SPH-457",
+  "factoryDate" : "271006741-04-16T02:36:47.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "XDQ-894",
+  "factoryDate" : "2114216-09-05T03:46:52.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "WUW-966",
+  "factoryDate" : "264294830-07-25T16:44:22.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "SVL-751",
+  "factoryDate" : "277687276-11-12T22:54:36.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YKT-964",
+  "factoryDate" : "83954820-04-12T09:27:06.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SBF-074",
+  "factoryDate" : "122918777-06-07T08:13:38.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "FSM-520",
+  "factoryDate" : "288969453-08-17T08:35:26.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "DEN-389",
+  "factoryDate" : "59779230-09-10T16:03:22.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "KSU-593",
+  "factoryDate" : "192579788-04-12T00:21:42.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SED-004",
+  "factoryDate" : "136482269-11-22T03:05:48.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "OKB-615",
+  "factoryDate" : "190199430-01-10T04:21:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "MPJ-093",
+  "factoryDate" : "184577591-05-12T03:46:52.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "BUE-386",
+  "factoryDate" : "292147546-08-23T05:44:14.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "TJQ-008",
+  "factoryDate" : "173973120-02-07T19:53:30.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "DFP-373",
+  "factoryDate" : "155785296-07-24T02:15:09.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "PZP-040",
+  "factoryDate" : "91494365-04-27T02:02:52.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "EWJ-230",
+  "factoryDate" : "205055545-03-19T20:42:33.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "WES-855",
+  "factoryDate" : "58006574-10-09T20:15:46.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "SIQ-066",
+  "factoryDate" : "73077888-08-16T04:50:22.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "TQM-544",
+  "factoryDate" : "282547914-05-05T13:16:13.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "MYY-287",
+  "factoryDate" : "230973360-10-25T04:41:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "BZZ-304",
+  "factoryDate" : "180319693-12-15T01:25:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "LAY-945",
+  "factoryDate" : "155435696-08-10T23:15:14.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "QIA-356",
+  "factoryDate" : "145634029-03-27T08:26:26.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "DKL-013",
+  "factoryDate" : "248270220-03-06T18:39:45.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "QWP-933",
+  "factoryDate" : "85987319-03-13T02:51:42.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XLH-744",
+  "factoryDate" : "32489902-03-16T22:33:12.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "TQD-668",
+  "factoryDate" : "80926978-04-08T13:25:47.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "XQF-833",
+  "factoryDate" : "28023808-10-28T17:11:53.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "JRF-330",
+  "factoryDate" : "42287877-10-14T06:18:26.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "YGB-956",
+  "factoryDate" : "92219425-09-30T04:20:45.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RYS-005",
+  "factoryDate" : "29911424-11-15T06:23:07.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PZX-818",
+  "factoryDate" : "240506338-02-25T15:34:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "GAT-774",
+  "factoryDate" : "49139273-11-28T09:55:33.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "ZFB-098",
+  "factoryDate" : "143558107-04-20T08:42:42.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "XDA-153",
+  "factoryDate" : "280243126-12-19T01:33:38.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RME-651",
+  "factoryDate" : "192945556-09-23T14:29:52.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "WYT-672",
+  "factoryDate" : "216377532-04-29T12:43:54.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "RIZ-581",
+  "factoryDate" : "251823320-03-06T04:05:34.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "MNP-167",
+  "factoryDate" : "23612433-04-10T16:30:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "WZP-918",
+  "factoryDate" : "188865579-02-12T07:49:28.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "DMA-224",
+  "factoryDate" : "74202275-11-10T10:55:00.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "JCY-855",
+  "factoryDate" : "255870473-09-14T14:13:02.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "XLB-618",
+  "factoryDate" : "140446339-04-10T10:31:34.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "TGT-989",
+  "factoryDate" : "55066076-06-07T06:16:22.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "NUB-294",
+  "factoryDate" : "50297658-07-07T10:10:48.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "IFR-939",
+  "factoryDate" : "109205133-06-29T16:32:50.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MCL-605",
+  "factoryDate" : "277834531-09-27T01:15:32.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "DDS-318",
+  "factoryDate" : "137225947-03-24T23:52:59.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "VGL-328",
+  "factoryDate" : "153262965-07-06T03:02:04.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "MNY-388",
+  "factoryDate" : "28645874-02-09T11:47:02.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "PTS-406",
+  "factoryDate" : "237303773-10-19T19:55:17.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "QGC-653",
+  "factoryDate" : "100695569-05-22T16:55:07.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "AOO-374",
+  "factoryDate" : "85668182-07-27T03:27:18.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A4",
+    "fuelType" : "GASOLINE",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "HVB-100",
+  "factoryDate" : "124469500-04-17T03:27:54.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "OGL-339",
+  "factoryDate" : "271815465-11-07T13:04:03.000+01"
+}, {
+  "carType" : {
+    "brandName" : "Kia",
+    "typeName" : "Ceed",
+    "fuelType" : "GASOLINE",
+    "price" : 9450000.0,
+    "color" : "BLUE",
+    "maxSpeed" : 180
+  },
+  "plateNumber" : "OCR-813",
+  "factoryDate" : "273294876-05-26T06:25:57.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A8",
+    "fuelType" : "DIESEL",
+    "price" : 1.445E7,
+    "color" : "BLUE",
+    "maxSpeed" : 220
+  },
+  "plateNumber" : "MGX-652",
+  "factoryDate" : "178973725-09-18T08:48:59.000+02"
+} ]

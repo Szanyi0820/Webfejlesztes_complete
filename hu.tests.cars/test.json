@@ -1,0 +1,2201 @@
+[ {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "HOB-747",
+  "factoryDate" : "1984-09-20T04:18:48.714+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "RGG-611",
+  "factoryDate" : "2002-04-22T02:31:58.790+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "RGI-545",
+  "factoryDate" : "1975-03-16T08:01:26.261+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "YSX-881",
+  "factoryDate" : "2000-06-06T04:11:49.416+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "VNN-129",
+  "factoryDate" : "1986-05-29T17:45:15.451+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "CYE-306",
+  "factoryDate" : "1994-06-22T14:17:39.489+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "KUS-190",
+  "factoryDate" : "2005-10-28T00:38:00.218+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "GLR-962",
+  "factoryDate" : "2009-05-19T16:10:42.427+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "EVF-782",
+  "factoryDate" : "2002-06-14T13:28:03.940+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "GVH-968",
+  "factoryDate" : "1986-01-24T11:39:43.485+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "RSV-760",
+  "factoryDate" : "2021-04-15T10:44:44.008+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "MDH-528",
+  "factoryDate" : "1995-04-10T01:03:36.203+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "PNQ-606",
+  "factoryDate" : "2001-02-09T20:21:41.729+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "YSA-607",
+  "factoryDate" : "1991-10-03T08:25:45.129+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "GTC-031",
+  "factoryDate" : "1991-12-08T17:09:31.096+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "CYP-300",
+  "factoryDate" : "1973-01-27T07:53:12.180+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "HWT-119",
+  "factoryDate" : "1986-07-02T21:34:44.868+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "AVL-238",
+  "factoryDate" : "2006-10-07T14:10:56.322+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "OTN-650",
+  "factoryDate" : "2019-04-06T10:15:13.094+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "ZPJ-855",
+  "factoryDate" : "1992-12-24T22:14:18.678+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "NVZ-901",
+  "factoryDate" : "2016-10-18T06:16:18.379+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "RRU-223",
+  "factoryDate" : "2008-11-17T09:41:19.174+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "BUF-934",
+  "factoryDate" : "2013-12-17T05:05:44.551+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "XPG-194",
+  "factoryDate" : "2009-08-22T19:51:24.796+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "RHF-022",
+  "factoryDate" : "2023-12-02T11:36:18.080+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "BDC-070",
+  "factoryDate" : "1993-08-03T02:53:45.850+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "SSW-824",
+  "factoryDate" : "1991-12-06T06:26:32.952+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "ERM-946",
+  "factoryDate" : "1976-12-09T15:30:24.565+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "OXI-238",
+  "factoryDate" : "1989-08-04T14:35:20.653+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "TLU-290",
+  "factoryDate" : "1982-03-30T02:24:49.795+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "DWD-557",
+  "factoryDate" : "2010-04-13T06:38:02.767+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "BNF-714",
+  "factoryDate" : "1970-02-27T15:35:33.278+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "LND-700",
+  "factoryDate" : "1985-04-25T06:51:04.717+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "JPW-217",
+  "factoryDate" : "2011-08-06T09:04:25.026+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "IJL-891",
+  "factoryDate" : "2021-02-21T20:00:12.297+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "VKQ-902",
+  "factoryDate" : "1993-03-08T18:00:59.890+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "AQO-019",
+  "factoryDate" : "2021-09-16T18:45:58.610+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "SER-753",
+  "factoryDate" : "2005-12-21T09:46:28.875+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "BMV-538",
+  "factoryDate" : "1995-06-11T03:21:58.636+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "IDW-671",
+  "factoryDate" : "1989-11-02T07:34:34.515+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "BHN-435",
+  "factoryDate" : "2004-04-30T04:13:24.736+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "BQC-857",
+  "factoryDate" : "1974-09-28T00:29:04.720+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "SQC-026",
+  "factoryDate" : "2019-02-27T22:53:25.253+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "IOH-534",
+  "factoryDate" : "1977-04-18T18:35:33.449+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "FOI-538",
+  "factoryDate" : "1985-05-16T00:45:40.307+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "NHC-753",
+  "factoryDate" : "1975-05-08T22:04:15.241+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "KWO-796",
+  "factoryDate" : "2021-03-29T07:25:26.131+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "KNF-574",
+  "factoryDate" : "1971-06-04T23:26:23.991+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "RDQ-575",
+  "factoryDate" : "2008-06-07T07:27:46.352+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "XAE-927",
+  "factoryDate" : "2023-09-24T14:46:12.803+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "DMX-421",
+  "factoryDate" : "2015-05-09T20:31:36.105+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "BWB-935",
+  "factoryDate" : "1983-07-28T00:07:41.856+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JEW-821",
+  "factoryDate" : "2020-05-25T09:40:11.376+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "CID-316",
+  "factoryDate" : "1989-08-09T02:29:34.051+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "TMI-488",
+  "factoryDate" : "1996-04-25T02:40:55.033+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "BXN-454",
+  "factoryDate" : "1979-01-12T09:00:57.731+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "CUQ-164",
+  "factoryDate" : "1996-11-24T13:13:26.634+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "VTJ-536",
+  "factoryDate" : "2018-05-09T19:37:10.353+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "YLC-002",
+  "factoryDate" : "2009-06-25T10:11:10.547+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "FCY-567",
+  "factoryDate" : "2017-03-14T03:03:39.091+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "PPK-610",
+  "factoryDate" : "2010-10-10T07:27:45.448+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "SIC-730",
+  "factoryDate" : "2012-06-07T10:56:24.448+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "IBM-519",
+  "factoryDate" : "1990-08-05T11:31:56.352+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "KST-085",
+  "factoryDate" : "1991-07-09T10:27:58.000+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "HNP-031",
+  "factoryDate" : "2003-02-27T17:50:50.418+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "YSU-680",
+  "factoryDate" : "2013-09-22T09:46:46.603+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "CWY-110",
+  "factoryDate" : "2007-11-17T21:28:00.682+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JEB-122",
+  "factoryDate" : "2019-05-03T14:17:55.263+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "SDM-078",
+  "factoryDate" : "2000-03-10T18:57:35.606+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "NMS-691",
+  "factoryDate" : "2017-10-17T16:25:13.667+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "UMK-446",
+  "factoryDate" : "2015-09-08T16:53:31.106+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "PJY-627",
+  "factoryDate" : "2000-08-10T21:39:16.671+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "MGD-374",
+  "factoryDate" : "1981-11-08T04:59:33.983+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JES-195",
+  "factoryDate" : "1984-12-30T06:43:30.091+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "BFQ-621",
+  "factoryDate" : "2023-08-18T11:15:33.644+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "ELJ-574",
+  "factoryDate" : "2003-11-15T01:26:48.811+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "MHA-729",
+  "factoryDate" : "1981-02-05T03:58:13.302+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "QEF-346",
+  "factoryDate" : "2010-10-06T13:05:07.460+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "XTS-611",
+  "factoryDate" : "1998-08-04T09:46:44.816+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "STO-085",
+  "factoryDate" : "2021-07-17T18:40:08.862+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "JWS-600",
+  "factoryDate" : "1979-12-12T15:36:35.740+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "TKZ-833",
+  "factoryDate" : "1992-03-21T18:12:23.888+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "EQC-610",
+  "factoryDate" : "1991-10-07T17:28:19.815+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "KKP-638",
+  "factoryDate" : "1998-04-04T09:59:16.509+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "XOI-792",
+  "factoryDate" : "2002-10-09T00:41:46.966+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "PHI-236",
+  "factoryDate" : "1977-06-19T02:37:43.425+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "KWD-624",
+  "factoryDate" : "2007-02-19T20:16:35.790+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "FQH-774",
+  "factoryDate" : "2004-05-03T05:48:50.860+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "OYI-986",
+  "factoryDate" : "2009-11-10T12:28:06.704+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "GIY-882",
+  "factoryDate" : "1980-06-25T09:58:50.110+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "EZM-646",
+  "factoryDate" : "2017-02-28T17:13:51.541+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "NEE-408",
+  "factoryDate" : "1982-06-28T04:32:29.195+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "EVW-365",
+  "factoryDate" : "2019-01-02T00:54:08.884+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JWL-217",
+  "factoryDate" : "1981-11-07T07:58:37.021+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "GZF-879",
+  "factoryDate" : "2009-03-31T15:26:58.237+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "IIO-867",
+  "factoryDate" : "2004-06-16T15:53:53.066+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "LBY-031",
+  "factoryDate" : "1995-07-25T20:45:28.836+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "PLG-350",
+  "factoryDate" : "1991-05-28T07:43:20.719+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "LEF-880",
+  "factoryDate" : "1987-10-01T12:22:00.949+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "XBJ-443",
+  "factoryDate" : "1979-07-07T13:41:01.293+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "GPR-551",
+  "factoryDate" : "2007-07-20T14:55:59.489+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "TKS-053",
+  "factoryDate" : "1991-02-08T03:30:48.761+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "MGR-438",
+  "factoryDate" : "2020-07-27T19:21:13.024+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "GRY-389",
+  "factoryDate" : "2009-05-14T10:30:16.308+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "ZHE-530",
+  "factoryDate" : "2005-09-04T10:29:54.504+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "MPI-583",
+  "factoryDate" : "2009-10-18T22:00:52.029+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "GHF-955",
+  "factoryDate" : "2015-07-05T10:55:08.889+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "RYP-237",
+  "factoryDate" : "2008-11-10T14:50:37.453+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "LKY-661",
+  "factoryDate" : "1971-10-23T03:16:57.207+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "DWZ-735",
+  "factoryDate" : "1982-02-21T04:49:57.762+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "WFF-317",
+  "factoryDate" : "1982-10-06T21:37:50.932+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "AHH-526",
+  "factoryDate" : "1990-10-31T09:58:02.669+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "KIF-661",
+  "factoryDate" : "1999-12-02T11:45:21.175+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "AHV-954",
+  "factoryDate" : "1974-05-09T09:57:33.655+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "PUQ-829",
+  "factoryDate" : "1976-03-17T00:42:29.458+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "ZYT-211",
+  "factoryDate" : "1973-01-14T08:27:33.278+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "KRA-627",
+  "factoryDate" : "1974-05-31T00:30:56.193+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "VWD-360",
+  "factoryDate" : "1987-08-09T20:40:24.327+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "BON-752",
+  "factoryDate" : "1986-08-17T03:47:35.107+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "LVZ-230",
+  "factoryDate" : "2022-02-19T07:01:41.071+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "XUI-549",
+  "factoryDate" : "1993-02-26T11:59:22.476+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "IHJ-028",
+  "factoryDate" : "1996-03-01T02:48:45.929+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "NIG-430",
+  "factoryDate" : "1985-01-24T05:07:17.558+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "WQT-779",
+  "factoryDate" : "1973-03-27T07:08:25.048+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JKP-105",
+  "factoryDate" : "2005-03-06T23:51:11.048+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "TJY-507",
+  "factoryDate" : "1982-10-30T11:03:29.727+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JPH-767",
+  "factoryDate" : "2013-11-08T20:59:03.302+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "QPW-454",
+  "factoryDate" : "1975-05-03T21:29:45.660+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "QCW-001",
+  "factoryDate" : "2005-02-01T18:47:27.163+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "NLR-071",
+  "factoryDate" : "1998-11-25T19:41:51.861+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "NGB-920",
+  "factoryDate" : "2015-07-27T10:53:07.756+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "UOE-584",
+  "factoryDate" : "2018-03-29T00:21:07.280+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "PCJ-046",
+  "factoryDate" : "1979-10-01T09:53:57.057+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "OKI-952",
+  "factoryDate" : "2002-10-13T07:54:05.011+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "FDS-178",
+  "factoryDate" : "2001-11-10T22:06:41.726+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "NLI-961",
+  "factoryDate" : "1987-07-23T21:02:21.358+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "DTJ-317",
+  "factoryDate" : "2017-12-26T11:42:04.613+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "SLU-234",
+  "factoryDate" : "1994-10-27T11:30:40.766+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "PBL-919",
+  "factoryDate" : "2013-12-21T05:40:33.322+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "QOC-558",
+  "factoryDate" : "1992-01-26T19:44:44.102+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "ZAW-824",
+  "factoryDate" : "1993-08-24T22:52:18.436+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "HVJ-695",
+  "factoryDate" : "2011-03-18T10:09:07.893+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "GBW-396",
+  "factoryDate" : "2004-05-25T16:23:00.272+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "BVV-887",
+  "factoryDate" : "2008-05-18T15:03:14.897+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "OZC-588",
+  "factoryDate" : "2023-02-18T01:40:37.402+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "GRO-735",
+  "factoryDate" : "2023-07-04T22:27:14.465+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "KON-820",
+  "factoryDate" : "2019-12-11T15:20:38.772+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "GFX-355",
+  "factoryDate" : "1971-09-19T09:25:48.074+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "FKV-093",
+  "factoryDate" : "1997-02-06T18:34:41.466+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "LHO-845",
+  "factoryDate" : "2000-08-02T18:08:09.297+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "BFL-016",
+  "factoryDate" : "2020-06-26T02:24:13.910+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "HYT-758",
+  "factoryDate" : "1971-02-14T07:48:51.865+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "VUO-454",
+  "factoryDate" : "1979-06-23T08:28:50.360+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "FGR-778",
+  "factoryDate" : "2019-04-09T17:17:37.735+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "GXM-638",
+  "factoryDate" : "1977-01-05T10:20:23.153+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "WAJ-274",
+  "factoryDate" : "1994-09-22T03:36:56.658+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "TAK-351",
+  "factoryDate" : "1982-10-02T10:00:34.761+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "IWQ-744",
+  "factoryDate" : "1995-08-30T08:28:24.417+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "GBU-735",
+  "factoryDate" : "2008-01-13T05:22:10.269+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "GKU-030",
+  "factoryDate" : "1972-07-06T14:47:46.970+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "EKL-845",
+  "factoryDate" : "1978-09-10T18:38:02.943+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "CEJ-213",
+  "factoryDate" : "2014-07-10T22:46:31.934+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "VFS-304",
+  "factoryDate" : "1987-07-15T18:56:27.701+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "JWV-767",
+  "factoryDate" : "2005-11-05T22:37:23.060+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "NPJ-519",
+  "factoryDate" : "2024-05-08T18:25:21.147+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "BYE-901",
+  "factoryDate" : "1980-10-25T04:57:06.247+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "WRV-293",
+  "factoryDate" : "2017-09-28T00:47:56.422+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "QWP-776",
+  "factoryDate" : "2005-08-26T13:26:15.960+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "DDS-632",
+  "factoryDate" : "1997-01-04T00:40:41.622+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "LLC-113",
+  "factoryDate" : "1993-12-12T08:01:07.772+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "YHY-041",
+  "factoryDate" : "1989-03-06T21:42:25.113+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "BBL-286",
+  "factoryDate" : "1975-12-30T14:26:21.841+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "KVB-831",
+  "factoryDate" : "2012-11-25T07:19:21.303+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "XGA-489",
+  "factoryDate" : "2018-09-11T01:10:00.515+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "MJM-143",
+  "factoryDate" : "1980-01-27T20:42:49.378+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "JAS-541",
+  "factoryDate" : "1972-11-22T14:21:32.237+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "BVC-324",
+  "factoryDate" : "2014-09-07T06:49:06.758+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "BJU-130",
+  "factoryDate" : "2022-01-04T07:39:02.798+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "FQH-015",
+  "factoryDate" : "2008-02-10T04:07:19.875+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "GWQ-051",
+  "factoryDate" : "2003-12-02T20:13:48.408+01"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "NCX-344",
+  "factoryDate" : "1996-01-04T03:18:07.218+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "DNF-494",
+  "factoryDate" : "1985-11-21T07:18:22.290+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "VWA-137",
+  "factoryDate" : "1983-07-31T04:24:40.482+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "XOD-241",
+  "factoryDate" : "1987-06-07T05:25:39.181+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "JJE-776",
+  "factoryDate" : "1988-09-06T12:44:29.658+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "FZV-662",
+  "factoryDate" : "2008-07-19T18:50:00.824+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "IXI-680",
+  "factoryDate" : "2020-09-02T18:05:00.471+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "VMQ-875",
+  "factoryDate" : "2014-07-08T21:52:09.803+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "ETG-756",
+  "factoryDate" : "2019-04-16T02:21:27.821+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "EFJ-270",
+  "factoryDate" : "1994-11-01T08:00:43.599+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "HAX-008",
+  "factoryDate" : "2005-07-26T00:16:48.952+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "LYA-723",
+  "factoryDate" : "2000-06-04T03:08:54.776+02"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "QXX-857",
+  "factoryDate" : "2002-01-11T08:28:27.867+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "VQC-371",
+  "factoryDate" : "2016-09-07T20:45:39.419+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "X5",
+    "fuelType" : "DIESEL",
+    "price" : 2.013E7,
+    "color" : "BLUE",
+    "maxSpeed" : 310
+  },
+  "plateNumber" : "QPA-370",
+  "factoryDate" : "2017-01-19T00:42:37.153+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A7",
+    "fuelType" : "DIESEL",
+    "price" : 1.625E7,
+    "color" : "BLUE",
+    "maxSpeed" : 350
+  },
+  "plateNumber" : "BIF-599",
+  "factoryDate" : "1976-07-07T07:13:58.161+01"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "LGM-062",
+  "factoryDate" : "2001-05-07T17:27:48.566+02"
+}, {
+  "carType" : {
+    "brandName" : "Bmw",
+    "typeName" : "M8",
+    "fuelType" : "PETROL",
+    "price" : 1.753E7,
+    "color" : "GREEN",
+    "maxSpeed" : 250
+  },
+  "plateNumber" : "LAJ-021",
+  "factoryDate" : "2003-07-01T08:10:12.522+02"
+}, {
+  "carType" : {
+    "brandName" : "Audi",
+    "typeName" : "A6",
+    "fuelType" : "PETROL",
+    "price" : 1.45E7,
+    "color" : "GREEN",
+    "maxSpeed" : 320
+  },
+  "plateNumber" : "PYN-259",
+  "factoryDate" : "1985-12-27T12:07:44.933+01"
+}, {
+  "carType" : {
+    "brandName" : "Ford",
+    "typeName" : "Focus",
+    "fuelType" : "ELECTRIC",
+    "price" : 1.245E7,
+    "color" : "RED",
+    "maxSpeed" : 210
+  },
+  "plateNumber" : "VRY-399",
+  "factoryDate" : "2019-02-25T22:57:02.404+01"
+} ]

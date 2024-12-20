@@ -565,7 +565,7 @@
   <deployment-groups></deployment-groups>
   <clusters></clusters>
   <applications>
-    <application deployment-time="1292" context-root="/" object-type="user" name="frontend" directory-deployed="true" location="${com.sun.aas.instanceRootURI}/eclipseApps/frontend/" time-deployed="1734653293950">
+    <application deployment-time="1394" context-root="/" object-type="user" name="frontend" directory-deployed="true" location="${com.sun.aas.instanceRootURI}/eclipseApps/frontend/" time-deployed="1734655846124">
       <property name="archiveType" value="war"></property>
       <property name="cdiDevModeEnabled" value="false"></property>
       <property name="defaultAppName" value="frontend"></property>
